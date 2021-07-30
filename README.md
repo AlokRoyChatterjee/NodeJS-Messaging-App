@@ -1,1 +1,1 @@
-### Developed group messaging app using HTML, Javascript, Node.js, and socket.io
+### Developed group messaging app using HTML, JavaScript, Node.js, and Socket.io
